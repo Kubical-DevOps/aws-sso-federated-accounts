@@ -1,0 +1,10 @@
+.terraform
+terraform.tfstate.*.backup
+builds
+*.log
+*.zip
+*metadata.xml
+smallable-prod/salesforce-prod/*.py
+**/*.lock.hcl
+**/tfenv_download*
+*kubeconfig*
